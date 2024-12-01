@@ -1,0 +1,7 @@
+- id: pyrust-task-id
+  name: PyRust Task ID
+  description: Python tool to add task id from the branch name to the commit message.
+  entry: pyrust_task_id
+  language: system
+  types: [python]
+  pass_filenames: false
