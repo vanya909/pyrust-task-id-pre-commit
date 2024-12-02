@@ -2,5 +2,5 @@
 name = "pyrust-task-id-pre-commit"
 version = "0.0.0"
 dependencies = [
-    "pyrust-task-id==0.1.0",
+    "pyrust-task-id==0.1.2",
 ]
